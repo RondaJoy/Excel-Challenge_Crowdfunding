@@ -4,7 +4,7 @@
 
 ---------------
 #### Purpose:
-Use VBA to organize and analyze a database of 1,000 sample projects to discover hidden trends.
+Organize and analyze a database of 1,000 sample projects to discover hidden trends using conditional formatting, built-in formulas, pivot tables and pivot charts.
 
 --------------
 #### Contents of Repository:
