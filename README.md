@@ -1,6 +1,6 @@
 
 **UCB Data Analysis Module 1**
-# Excel Challenge
+# Excel Challenge: Crowdfunding Campaign Project
 
 ---------------
 #### Purpose:
